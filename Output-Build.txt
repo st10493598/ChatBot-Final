@@ -1,0 +1,4 @@
+﻿1>------ Rebuild started: Project: ChatBot, Configuration: Debug ------
+1>C:\Program Files\dotnet\sdk\10.0.200\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Assets file 'C:\Users\karle\OneDrive\Documents\ChatBot\ChatBot\obj\project.assets.json' not found. Run a NuGet package restore to generate this file.
+========== Rebuild: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+Rebuild failed.
